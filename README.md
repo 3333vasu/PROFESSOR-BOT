@@ -84,7 +84,14 @@
 
 ## Deploy to Railway
 
-🙏 create button your self
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ғʀᴇᴇ}</summary>
+<p>
+<br>
+<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTamilanBotsZ%2FAwesomeFilterPro">
+  <img src="https://railway.app/button.svg" alt="deploy-to-railway">
+  </a>
+  </p>
+  </details>
 
 ## Commands
 ```
